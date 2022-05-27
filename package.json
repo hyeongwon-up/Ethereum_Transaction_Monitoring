@@ -1,0 +1,26 @@
+{
+  "name": "ethereum_transaction_monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyeongwon-up/Ethereum_Transaction_Monitoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyeongwon-up/Ethereum_Transaction_Monitoring/issues"
+  },
+  "homepage": "https://github.com/Hyeongwon-up/Ethereum_Transaction_Monitoring#readme",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "dotenv": "^16.0.1",
+    "ethereumjs-tx": "^1.3.7",
+    "node-rest-client-promise": "^3.1.1",
+    "web3": "^1.7.3"
+  }
+}
